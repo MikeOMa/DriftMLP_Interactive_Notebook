@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.8
+  - numpy>=1.10
   - jupyter
   - ipywidgets
   - pip==20.1.1
