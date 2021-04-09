@@ -7,6 +7,7 @@ dependencies:
   - numpy>=1.10
   - jupyter
   - ipywidgets
+  - cartopy
   - pip==20.1.1
   - pip:
     - git+https://github.com/MikeOMa/DriftMLP.git
