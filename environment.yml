@@ -3,6 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.8
+  - jupyter
   - ipywidgets
+  - pip==20.1.1
   - pip:
     - git+https://github.com/MikeOMa/DriftMLP.git
