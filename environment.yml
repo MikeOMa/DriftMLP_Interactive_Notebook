@@ -9,5 +9,6 @@ dependencies:
   - ipywidgets
   - cartopy
   - pip==20.1.1
+  - appmode
   - pip:
     - git+https://github.com/MikeOMa/DriftMLP.git
