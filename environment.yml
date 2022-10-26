@@ -3,12 +3,12 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8
+  - python=3.7
   - numpy>=1.10,<=1.20
-  - jupyter
+  - jupyter==6.4.0
   - ipywidgets
   - cartopy
-  - pip==20.1.1
+  - pip==21.1.1
   - appmode
   - pip:
     - git+https://github.com/MikeOMa/DriftMLP.git
