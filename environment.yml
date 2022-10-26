@@ -8,6 +8,6 @@ dependencies:
   - ipywidgets
   - cartopy
   - appmode
-  - pip==21.1.1
+  - pip==20.1.1
   - pip:
       driftmlp
