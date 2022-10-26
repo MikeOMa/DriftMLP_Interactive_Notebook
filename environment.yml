@@ -5,7 +5,7 @@ channels:
 dependencies:
   - python=3.7
   - numpy>=1.10,<=1.20
-  - jupyter==6.4.0
+  - jupyter<=6.4.0
   - ipywidgets
   - cartopy
   - pip==21.1.1
