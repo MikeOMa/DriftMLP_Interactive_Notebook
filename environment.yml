@@ -10,4 +10,4 @@ dependencies:
   - cartopy
   - appmode
   - pip:
-    - git+https://github.com/MikeOMa/DriftMLP.git
+      driftmlp
